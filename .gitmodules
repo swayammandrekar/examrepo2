@@ -1,0 +1,3 @@
+[submodule "mahi"]
+	path = mahi
+	url = https://github.com/swayamandrekar/mahi.git
